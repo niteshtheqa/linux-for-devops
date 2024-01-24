@@ -1,0 +1,7 @@
+cat
+cat 
+dog 
+apple 
+sad 
+mad 
+mango

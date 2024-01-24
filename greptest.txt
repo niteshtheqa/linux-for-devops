@@ -1,1 +1,6 @@
-cat cat  dog apple sad mad mango
+cat
+dog
+apple
+ball
+zebra
+APPLE
